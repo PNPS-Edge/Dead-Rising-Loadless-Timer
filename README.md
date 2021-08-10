@@ -5,13 +5,13 @@
 
 A LiveSplit script for the Dead Rising (2016).
 
-This script support all speedrun categories including category extension.
+This script support all the Dead Rising speedrun categories including category extensions.
 
 # Features
   - Removes loads and cutscenes from the timer.
   - Starts automatically when player has control.
   - Resets automatically when player is back to main menu.
-  - Splits on a large variety of checkpoints to meet all your speedrun needs. 
+  - Splits on a large variety of checkpoints to meet all your speedrun split needs. 
 
 # Contact
-Join the Dead Rising Speerun Community on [Discord](https://discord.com/invite/5ac3ZfV)
+Join the Dead Rising Series Speedrun Community on [Discord](https://discord.com/invite/5ac3ZfV)
