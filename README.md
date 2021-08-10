@@ -25,4 +25,4 @@ This script support all speedrun categories including category extension.
 
 
 # Contact
-Join the Dead Rising Speerun Community on [Discord](https://discord.com/invite/5ac3ZfV)
+Join the Dead Rising Series Speedrun Community on [Discord](https://discord.com/invite/5ac3ZfV)
