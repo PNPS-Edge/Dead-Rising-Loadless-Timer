@@ -6,7 +6,7 @@
 # Table of Contents
 - [Summary](https://github.com/PNPS-Edge/DeadRising_LiveSplit_Autosplitter#summary)
 - [Features](https://github.com/PNPS-Edge/DeadRising_LiveSplit_Autosplitter#features)
-- [How to Use](https://github.com/PNPS-Edge/DeadRising_LiveSplit_Autosplitter#how_to_use)
+- [How to Use](https://github.com/PNPS-Edge/DeadRising_LiveSplit_Autosplitter#how-to-use)
 - [Contact](https://github.com/PNPS-Edge/DeadRising_LiveSplit_Autosplitter#contact)
 
 
