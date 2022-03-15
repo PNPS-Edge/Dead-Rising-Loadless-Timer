@@ -30,11 +30,11 @@ This script support all speedrun categories including category extension.
 ## Deactivate the default Autosplitter
 - When Livesplit is open, edit your splits file. With a right click and "Edit Splits".
 
-![Edit_Splits](https://user-images.githubusercontent.com/42294009/129011086-37fbcb36-379f-4090-92e6-8566ec545787.png)
+![test](https://user-images.githubusercontent.com/42294009/158342620-9e06ab97-f226-43b3-b800-12954b7a424f.png)
 
 - Than make sure that the default autosplitter is DEACTIVED.
 
-![Splits_Editor](https://user-images.githubusercontent.com/42294009/129011434-0e23fc9d-c7cc-4c2a-907c-ed588c859607.png)
+![Deactivate](https://user-images.githubusercontent.com/42294009/158343011-1985f0ac-8b11-47db-9b15-98178a8b9d4b.png)
 
 - Click on "OK" to close the splits editor.
 If you are running different categories with different splits files check on each file.
@@ -43,19 +43,19 @@ If you are running different categories with different splits files check on eac
 
 - Now edit your Layout with right click on Livesplit and "Edit Layout"
 
-![Edit_Layout](https://user-images.githubusercontent.com/42294009/129011751-a0346850-4ee7-41ad-b34a-68e892406df6.png)
+![edit layout](https://user-images.githubusercontent.com/42294009/158343317-15163be7-6406-40c6-ad3d-e5b32fadca34.png)
 
 - Once the Layout editor is opened, click on the "+" sign, go under "Control" and select "Scriptable Auto Splitter".
 
-![Layout_Editor](https://user-images.githubusercontent.com/42294009/129011792-f79af6e3-c54b-4064-935d-f90bb6d4e659.png)
+![scriptable](https://user-images.githubusercontent.com/42294009/158343659-cddacf19-6d19-4a85-b3f1-2d2c59f26a98.png)
 
 - Then browse to the autosplitter file you just downloaded
 
-![Scriptable_Auto_Splitter](https://user-images.githubusercontent.com/42294009/129011823-2fe8557d-5eee-4f15-9fbe-22465d0c6b40.png)
+![Script empty](https://user-images.githubusercontent.com/42294009/158344218-e93afab6-f03a-4da8-bc6e-0295048ee124.png)
 
 - Finally choose your needed splits according to your splits file.
 
-![Autosplitter](https://user-images.githubusercontent.com/42294009/129011878-2657f296-5393-4621-94a9-80a1671a6911.png)
+![Script full](https://user-images.githubusercontent.com/42294009/158344193-ed60e500-68dc-4d7a-bddc-86ec1554de82.png)
 
 Enjoy ;)
 
